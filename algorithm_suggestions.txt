@@ -1,0 +1,8 @@
+algo 1 :
+bruteforce, generating all sequences until theres one working
+
+algo 2 :
+generating random mashings of all permutations
+
+algo 3 : improving an existing solution
+(for ex, taking each permutation and see if it can be injected somewhere else reducing total length)
